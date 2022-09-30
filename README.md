@@ -20,6 +20,7 @@ Clone the repo:
 Then:
 
  cd meme-flask
+ 
  python3 meme-flask.py
  
  
